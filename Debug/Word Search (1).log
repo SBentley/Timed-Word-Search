@@ -1,0 +1,10 @@
+﻿  main.c
+d:\users\sam\drive\school work\university\icp 1029 imperative programming in c\assignment\word search\word search\main.c(21): warning C4047: 'function': 'char *' differs in levels of indirection from 'const char *[1]'
+d:\users\sam\drive\school work\university\icp 1029 imperative programming in c\assignment\word search\word search\main.c(21): warning C4024: 'placeWords': different types for formal and actual parameter 1
+d:\users\sam\drive\school work\university\icp 1029 imperative programming in c\assignment\word search\word search\main.c(30): warning C4047: '=': 'char **' differs in levels of indirection from 'char *'
+d:\users\sam\drive\school work\university\icp 1029 imperative programming in c\assignment\word search\word search\main.c(81): warning C4028: formal parameter 1 different from declaration
+d:\users\sam\drive\school work\university\icp 1029 imperative programming in c\assignment\word search\word search\main.c(84): warning C4013: 'time' undefined; assuming extern returning int
+d:\users\sam\drive\school work\university\icp 1029 imperative programming in c\assignment\word search\word search\main.c(126): warning C4047: 'function': 'const char *const ' differs in levels of indirection from 'char **'
+d:\users\sam\drive\school work\university\icp 1029 imperative programming in c\assignment\word search\word search\main.c(126): warning C4024: 'printf': different types for formal and actual parameter 1
+d:\users\sam\drive\school work\university\icp 1029 imperative programming in c\assignment\word search\word search\main.c(82): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Word Search.vcxproj -> D:\Users\Sam\Drive\School Work\University\ICP 1029 Imperative Programming in C\Assignment\Word Search\Debug\Word Search.exe
